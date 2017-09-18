@@ -1,0 +1,62 @@
+body {
+	font-family: Raleway;
+	padding-top: 70px;
+}
+
+#logoFont {
+	font-weight: 700;
+	size: 30px;
+}
+
+#navbarFont {
+	font-weight: 400;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    color: #fff;
+    background-color: transparent;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+}
+
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+
+.jumbotron {
+	color: #3ea366;
+}
+
+.jumbotron p {
+	color: #000;
+}
+
+.navbar-fixed-top {
+	background: #3ea366;
+}
+
+.btn {
+	background: #3ea366;
+	border: none;
+}
+
+.btn:hover {
+	background: #ffffff;
+	color: #3ea366;
+	border: 1px solid #3ea366;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: #3ea366;
+}
